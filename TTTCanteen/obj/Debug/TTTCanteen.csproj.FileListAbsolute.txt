@@ -1,0 +1,7 @@
+c:\users\mn\documents\visual studio 2015\Projects\TTTCanteen\TTTCanteen\bin\Debug\TTTCanteen.dll
+c:\users\mn\documents\visual studio 2015\Projects\TTTCanteen\TTTCanteen\bin\Debug\TTTCanteen.pdb
+c:\users\mn\documents\visual studio 2015\Projects\TTTCanteen\TTTCanteen\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.dll
+c:\users\mn\documents\visual studio 2015\Projects\TTTCanteen\TTTCanteen\bin\Debug\Microsoft.Dynamics.Framework.UI.Extensibility.xml
+c:\users\mn\documents\visual studio 2015\Projects\TTTCanteen\TTTCanteen\obj\Debug\TTTCanteen.dll
+c:\users\mn\documents\visual studio 2015\Projects\TTTCanteen\TTTCanteen\obj\Debug\TTTCanteen.pdb
+C:\Users\mn\Documents\Visual Studio 2015\Projects\TTTCanteen\TTTCanteen\obj\Debug\TTTCanteen.csprojResolveAssemblyReference.cache
